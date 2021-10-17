@@ -1,8 +1,8 @@
 ## 👋 Hi there, I am Assylbek
 
-- 🇵🇱 I live in Krakow, Poland
-- 🍎 I’m a Senior iOS Developer at Revolut
-- 💻 Most of the time I'm writing on Swift
+- 🇵🇱 I live in Abu Dhabi, UAE
+- 🍎 I’m a leading mobile engineer at ADQ Neobank
+- 💻 Most of the time I'm managing the mobile development
 - ✉️ You can shoot me an email at [aaisataev@gmail.com](mailto:aaisataev@gmail.com)
 
 ## 🐶 My pet-projects
