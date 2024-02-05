@@ -1,7 +1,7 @@
 ## 👋 Hi there, I am Assylbek
 
 - 🇦🇪 I live in Abu Dhabi, UAE
-- 🏦 I’m a leading mobile engineer at ADQ Neobank
+- 🏦 I’m a Mobile Tech Lead at Wio
 - 💻 Most of the time I'm managing the mobile development
 - ✉️ You can shoot me an email at [aaisataev@gmail.com](mailto:aaisataev@gmail.com)
 
